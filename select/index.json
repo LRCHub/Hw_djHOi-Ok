@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Romancing Train",
+  "base_artist": "move",
+  "createdAt": "2026-03-08T02:42:21.128934Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Romancing Train",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/01_Romancing_Train_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Romancing Train",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/02_Romancing_Train_m.o.v.e.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Romancing Train",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/03_Romancing_Train_m.o.v.e.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Romancing Train",
+      "artist": "move",
+      "has_synced": true,
+      "path": "select/04_Romancing_Train_move.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Romancing Train",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/05_Romancing_Train_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Romancing Train",
+      "artist": "move",
+      "has_synced": true,
+      "path": "select/06_Romancing_Train_move.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Romancing Train",
+      "artist": "EQX Move",
+      "has_synced": true,
+      "path": "select/07_Romancing_Train_EQX_Move.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Romancing a Stranger",
+      "artist": "The Reign of Kindo",
+      "has_synced": true,
+      "path": "select/08_Romancing_a_Stranger_The_Reign_of_Kindo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dead Horizon, Part II: Romancing Ghouls",
+      "artist": "Martyr",
+      "has_synced": false,
+      "path": "select/09_Dead_Horizon,_Part_II__Romancing_Ghouls_Martyr.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Romancing The Stone",
+      "artist": "Eddy Grant",
+      "has_synced": false,
+      "path": "select/10_Romancing_The_Stone_Eddy_Grant.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Disco Romancing",
+      "artist": "Elena",
+      "has_synced": true,
+      "path": "select/11_Disco_Romancing_Elena.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Disco Romancing",
+      "artist": "Elena",
+      "has_synced": true,
+      "path": "select/12_Disco_Romancing_Elena.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Romancing Train",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/pl_01_Romancing_Train_m.o.v.e.txt"
+    }
+  ]
+}
